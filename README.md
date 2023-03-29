@@ -15,7 +15,7 @@ To address this situation, we have developed a web-based system that allows citi
 
 ## Project Details
 
-The project is developed using modern web technologies such as HTML, CSS, and JavaScript. We have also utilized popular front-end frameworks such as React and Bootstrap to create a responsive and user-friendly interface. The project is hosted on GitHub and can be accessed using the following link:
+The UI is developed using modern UI/UX Concepts & theories like Shneiderman and Norman's .
 
 ## Shneiderman's Eight Golden Rules for UI Design
 

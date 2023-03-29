@@ -1,3 +1,12 @@
+# <img src="Screenshot/Header-Cloudpassport."> 
+
+<a href="#"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=lakshithaonline&style=flat-square" width="125"/></a>
+[![Welcome](https://img.shields.io/badge/NSBM%20Green%20University-Welcome-brightgreen)](#) 
+[![Welcome](https://img.shields.io/badge/System%20of%20Analysis%20And%Designing20I-Final%20Project-orange)](#)
+
+***Cloud-Online-Passport-Application For Automate the Passport processing***
+
+
 # Cloud-Online-Passport-Application-UI
 
 This project aims to automate the manual process of passport application in Sri Lanka and simplify the passport application process for citizens. The Department of Immigration and Emigration of Sri Lanka has been facing management and handling issues due to the increasing number of new passport applicants. The department does not have adequate staff to handle the rise in new applicants, resulting in discomfort for applicants, especially those from rural areas who must face these difficulties for days.

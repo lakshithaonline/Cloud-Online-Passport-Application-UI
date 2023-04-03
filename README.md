@@ -4,14 +4,18 @@
 [![Welcome](https://img.shields.io/badge/NSBM%20Green%20University-Welcome-brightgreen)](#) 
 [![Welcome](https://img.shields.io/badge/System%20Analysis%20And%20Designing20I-Final%20Project-orange)](#)
 
-***Cloud-Online-Passport-Application For Automate the Passport processing***
+***Cloud Passport Concept For Automate the Passport Process***
 
 
 # Cloud-Online-Passport-Application-UI
 
-This project aims to automate the manual process of passport application in Sri Lanka and simplify the passport application process for citizens. The Department of Immigration and Emigration of Sri Lanka has been facing management and handling issues due to the increasing number of new passport applicants. The department does not have adequate staff to handle the rise in new applicants, resulting in discomfort for applicants, especially those from rural areas who must face these difficulties for days.
+Introducing the Cloud Passport Web App Concept, a game-changing solution proposed for the Department of Immigration and Emigration of Sri Lanka. As the number of new passport applicants continues to rise, the department is struggling with management and handling issues due to inadequate staffing. This has caused great discomfort to applicants, particularly those from rural areas who may have to endure days of difficulties in the manual process.
 
-To address this situation, we have developed a web-based system that allows citizens to apply for passports online, reducing the need for physical visits to government offices. This system will significantly improve the passport application process and enhance the overall experience for applicants.
+To tackle this pressing problem, we conducted research and surveys on 100 passport holders who have experienced this manual process firsthand. From our findings, we discovered that a web-based system would be the ideal solution. Hence, we have proposed a mobile and desktop-supported web application that streamlines the passport process and eliminates the need for manual paperwork.
+
+Our proposed solution comes with a comprehensive System Requirements Specification (SRS) report and a user-friendly UI/UX design. With the Cloud Passport Web App Concept, applicants can easily submit their passport applications, track their application status, and make online payments - all from the comfort of their homes. This web application promises to improve the overall efficiency and convenience of the passport application process for both the department and the applicants.
+
+In conclusion, the Cloud Passport Web App Concept is a cutting-edge solution that addresses the challenges faced by the Department of Immigration and Emigration of Sri Lanka. With our proposed web application, we hope to provide a streamlined and hassle-free experience for passport applicants, thereby reducing the burden on the department's staff and enhancing customer satisfaction.
 
 ## Project Details
 

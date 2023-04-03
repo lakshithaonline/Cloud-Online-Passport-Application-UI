@@ -40,9 +40,9 @@ By adhering to these design principles, we have created a UI that is not only vi
 
 You can view the design for this project on Figma [here](https://www.figma.com/file/Q3faTBapseE4oaNYFJ1BzT/Public-User-UI?t=LEj07eQe9DsDWX5L-1).
 
-## SRS Report
+## Project Documentation
 
-You can view the report of this project on [here](SRS Report/SRS Report Group 05 ( Topic - Cloud Passport Portal ).pdf).
+- [SRS Report](https://github.com/lakshithaonline/Cloud-Online-Passport-Application-UI/blob/main/SRS%20Report/SRS%20Report%20Group%2005%20(%20Topic%20-%20Cloud%20Passport%20Portal%20).pdf)
 
 ## License
 
